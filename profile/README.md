@@ -20,7 +20,9 @@ Android network signal analysis and connection status monitoring.
 
 ## Engineering & Research
 
-This organization hosts selected source code, technical documentation, tools, experiments and engineering materials related to LUNEVON products.
+This organization hosts public technical documentation, research materials, release information and selected engineering publications related to LUNEVON products.
+
+LUNEVON product source code, signing materials, credentials, internal build configuration and other proprietary implementation details are not published.
 
 Research and publications are available at [lunevon.com/labs](https://lunevon.com/labs/).
 
