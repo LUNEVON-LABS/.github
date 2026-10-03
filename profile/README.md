@@ -8,7 +8,7 @@ We design and develop software focused on device intelligence, diagnostics, conn
 
 ## Products
 
-### Lunevon Device Info
+### Lunevon DI
 Android device information and diagnostics presented in a clear, engineering-focused interface.
 
 [Product page](https://lunevon.com/products/device-info/)
