@@ -101,6 +101,11 @@ Topics include:
 
 This GitHub organization is the public engineering presence of LUNEVON.
 
+### Public repositories
+
+- **[lunevon-releases](https://github.com/LUNEVON-LABS/lunevon-releases)** — public release registry, changelogs, permission notes and verification metadata.
+
+
 Public repositories may contain:
 
 - technical documentation;
