@@ -1,14 +1,12 @@
+<p align="center">
+  <img src="./assets/lunevon-github-header.svg" alt="LUNEVON LABS — Software & Technology" width="100%">
+</p>
+
 <div align="center">
 
-# LUNEVON LABS
-
-### Software & Technology
-
-**Android applications · Device intelligence · Diagnostics · Connectivity · Technical research**
-
-[![Website](https://img.shields.io/badge/lunevon.com-0B1118?style=for-the-badge&logo=googlechrome&logoColor=68F5FF)](https://lunevon.com/)
-[![LABS](https://img.shields.io/badge/Research%20%26%20Publications-111A23?style=for-the-badge&logo=readme&logoColor=A78BFA)](https://lunevon.com/labs/)
-[![Telegram](https://img.shields.io/badge/Telegram-LUNEVON-111A23?style=for-the-badge&logo=telegram&logoColor=68F5FF)](https://t.me/LUNEVON)
+[![Website](https://img.shields.io/badge/lunevon.com-0D151C?style=for-the-badge&logo=googlechrome&logoColor=72F3F0)](https://lunevon.com/)
+[![LABS](https://img.shields.io/badge/Research%20%26%20Publications-2A3846?style=for-the-badge&logo=readme&logoColor=BB9AFE)](https://lunevon.com/labs/)
+[![Telegram](https://img.shields.io/badge/Telegram-LUNEVON-2A3846?style=for-the-badge&logo=telegram&logoColor=72F3F0)](https://t.me/LUNEVON)
 
 </div>
 
