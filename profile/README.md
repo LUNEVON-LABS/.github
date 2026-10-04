@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/LUNEVON-LABS/.github/main/profile/assets/lunevon-github-header.svg?v=2" alt="LUNEVON LABS — Software & Technology" width="100%">
+  <img src="https://raw.githubusercontent.com/LUNEVON-LABS/.github/main/profile/assets/lunevon-github-header.png?v=3" alt="LUNEVON LABS — Software & Technology" width="100%">
 </p>
 
 <div align="center">
