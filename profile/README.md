@@ -103,6 +103,7 @@ This GitHub organization is the public engineering presence of LUNEVON.
 
 ### Public repositories
 
+- **[lunevon-labs](https://github.com/LUNEVON-LABS/lunevon-labs)** — engineering research, publication index and public methodology notes.
 - **[lunevon-releases](https://github.com/LUNEVON-LABS/lunevon-releases)** — public release registry, changelogs, permission notes and verification metadata.
 
 
