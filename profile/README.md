@@ -41,7 +41,7 @@ Android device information and diagnostics in a focused engineering interface.
 - Device characteristics
 - Local TXT / PDF reports
 
-[**Explore Lunevon DI →**](https://lunevon.com/products/device-info/)
+[**Website →**](https://lunevon.com/products/device-info/) · [**RuStore →**](https://www.rustore.ru/catalog/app/com.lunevon.deviceinfo)
 
 </td>
 <td width="50%" valign="top">
@@ -57,7 +57,7 @@ Real-time Wi-Fi signal visualization and local connection analysis.
 - Wi-Fi band and standard
 - RX / TX link information
 
-[**Explore Lunevon Signal →**](https://lunevon.com/products/signal/)
+[**Website →**](https://lunevon.com/products/signal/) · [**RuStore →**](https://www.rustore.ru/catalog/app/com.lunevon.signal)
 
 </td>
 </tr>
